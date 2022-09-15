@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+main {
+    text-align: center;
+}
+
+header {
+    background-color: #eeeeee;
+}
+
+h1 {
+    background-color: #cfdcec;
+}
+
+section h3 {
+    background-color: #8b98a8;
+}
