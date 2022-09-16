@@ -65,3 +65,18 @@ main {
     padding: .6em;
     background-color: #e0edfd;
 }
+
+@media (max-width: 412px) {
+    .main-header {
+        flex-direction: column;
+        padding-top: 10px;
+    }
+
+    .menu {
+        padding-inline-start: 0;
+    }
+
+    .banner {
+        padding: 40px
+    }
+}
